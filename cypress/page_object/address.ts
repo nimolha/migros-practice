@@ -99,6 +99,6 @@ function companyDetails(detail:companyInfotype){
                     cy.wrap(check).find('p').should('contain',haha);
                 })
             });
-            
+    //hello tashi this is my git branch named side      
         
 }

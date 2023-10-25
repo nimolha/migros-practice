@@ -1,0 +1,36 @@
+{
+  "teamName": {
+  "designTeam": "Graphic Design Team",
+  "onlineMarketingTeam": "Online Marketing Team",
+  "digitalMarketing": "Digital Marketing",
+  "socialMediaTeam":"Social Media Team",
+  "webDesignTeam": "Web Design Team",
+  "p3dTeam": "P3D Team"
+  },
+  "admin": "Admin EVA",
+  "adminId": "admin@migroseva.onmicrosoft.com",
+  "marketingManager": "Manager Manager",
+  "managerId": "manager@migroseva.onmicrosoft.com",
+  "gmos": "gmaos gmos",
+  "gmosId":"gmos@migroseva.onmicrosoft.com",
+  "deputy": "Manager Tom",
+  "deputyId": "dm1@migroseva.onmicrosoft.com",
+  "designTeam": {
+  "lead": "Design leader",
+  "leadEmail": "lead@migroseva.onmicrosoft.com",
+  "designer": "Designer Designer",
+  "designerEmail": "designer@migroseva.onmicrosoft.com"
+  },
+  "OM": {
+  "lead": "Leader OM",
+  "leadEmail": "lead1@migroseva.onmicrosoft.com",
+  "designer": "Designer OM",
+  "designerEmail": "designer1@migroseva.onmicrosoft.com"
+  },
+  "p3d": {
+  "designer": "P3D Designer",
+  "designerEmail": "designer2@migroseva.onmicrosoft.com",
+  "lead": "P3D Lead",
+  "leadEmail": "lead2@migroseva.onmicrosoft.com"
+  }
+  }
